@@ -42,9 +42,13 @@ nav {
 .nav-content {
   /* margin-left: 200px; */
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
   gap: 48px;
+  padding-top: 14px;
+}
+
+.home{
   padding-top: 15px;
 }
 
@@ -63,7 +67,7 @@ nav {
 
 .icons {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: flex-end;
   gap: 20px;
 }
