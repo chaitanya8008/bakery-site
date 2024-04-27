@@ -13,8 +13,6 @@ function Header() {
           <NavLink to="/" className="home">HOME</NavLink>
           <NavLink to="/about">WHO WE ARE</NavLink>
           <NavLink to="/products">PRODUCTS</NavLink>
-          <NavLink to="/events">GIFTING & EVENTS</NavLink>
-          <NavLink to="/club">PUDDING CLUB</NavLink>
           <NavLink to="/contactus">CONTACT US</NavLink>
           <div className="icons">
             <NavLink to="/signin">

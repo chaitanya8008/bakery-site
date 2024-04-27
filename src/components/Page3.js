@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './style.css'
 function Page3() {
   return (
     <div className="page3">
